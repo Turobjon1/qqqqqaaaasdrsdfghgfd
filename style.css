@@ -1,0 +1,27 @@
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#modal{
+    border: 1px solid blue;
+    padding: 20px;
+    width: 400px;
+    border-radius: 15px;
+}
+.box{
+    width: 1440px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    background-color: aqua;
+    color: red;
+}
